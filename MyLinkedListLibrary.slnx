@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="MyLinkedList.cs" />
+    <File Path="MyLinkedListNode.cs" />
+    <File Path="MyStack.cs" />
+    <File Path="Program.cs" />
+  </Folder>
+  <Project Path="MyLinkedListLibrary/MyLinkedListLibrary.csproj" />
+  <Project Path="TestApp/TestApp.csproj" />
+</Solution>
