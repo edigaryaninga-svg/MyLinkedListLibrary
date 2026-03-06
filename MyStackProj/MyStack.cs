@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace MyLinkedListLibrary;
+﻿namespace MyLinkedListLibrary;
 
 public class MyStack<T>
 {

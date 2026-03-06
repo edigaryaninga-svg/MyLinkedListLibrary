@@ -1,6 +1,4 @@
-﻿using System;
-
-public class MyLinkedList<T>
+﻿public class MyLinkedList<T>
 {
     private MyLinkedListNode<T> head;
     public int Count { get; private set; }

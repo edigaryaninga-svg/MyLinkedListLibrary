@@ -11,11 +11,11 @@ class Program
         stack.Push(20);
         stack.Push(30);
 
-        Console.WriteLine("Stack-ի գագաթն է: " + stack.Peek());
-        Console.WriteLine("Հեռացվեց: " + stack.Pop());
-        Console.WriteLine("Հիմա գագաթն է: " + stack.Peek());
+        Console.WriteLine( stack.Peek());
+        Console.WriteLine(stack.Pop());
+        Console.WriteLine( + stack.Peek());
 
-        Console.WriteLine("\nՍեղմեք որևէ ստեղն փակելու համար...");
+        Console.WriteLine();
         Console.ReadKey();
     }
 }

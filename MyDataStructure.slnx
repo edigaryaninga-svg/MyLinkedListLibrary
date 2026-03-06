@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MyLinkedListLibrary/MyLinkedListLibrary.csproj" />
+  <Project Path="MyQueueProj/MyQueueProj.csproj" Id="46c30069-68d9-492c-a001-1389a7b4d492" />
+  <Project Path="MyStackProj/MyStackProj.csproj" Id="95b885d9-8852-40ce-9fb9-6412c222a806" />
+  <Project Path="TestApp/TestApp.csproj" />
+</Solution>
