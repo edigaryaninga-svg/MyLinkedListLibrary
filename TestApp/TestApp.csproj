@@ -9,6 +9,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MyLinkedListLibrary\MyLinkedListLibrary.csproj" />
+    <ProjectReference Include="..\MyQueueProj\MyQueueProj.csproj" />
+    <ProjectReference Include="..\MyStackProj\MyStackProj.csproj" />
   </ItemGroup>
 
 </Project>
