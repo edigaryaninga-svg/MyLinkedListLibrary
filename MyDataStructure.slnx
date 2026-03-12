@@ -1,6 +1,8 @@
 <Solution>
+  <Project Path="MyCalculatorProj/MyCalculatorProj.csproj" Id="3b00dc19-0578-47ed-9b18-b85f2c82ddda" />
   <Project Path="MyLinkedListLibrary/MyLinkedListLibrary.csproj" />
   <Project Path="MyQueueProj/MyQueueProj.csproj" Id="46c30069-68d9-492c-a001-1389a7b4d492" />
+  <Project Path="MyStackArray.cs/MyStackArrayProj.csproj" Id="d3ddc679-3fa8-4d66-a555-05213547e158" />
   <Project Path="MyStackProj/MyStackProj.csproj" Id="95b885d9-8852-40ce-9fb9-6412c222a806" />
   <Project Path="TestApp/TestApp.csproj" />
 </Solution>

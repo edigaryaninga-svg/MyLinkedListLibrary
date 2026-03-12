@@ -8,8 +8,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\MyCalculatorProj\MyCalculatorProj.csproj" />
     <ProjectReference Include="..\MyLinkedListLibrary\MyLinkedListLibrary.csproj" />
     <ProjectReference Include="..\MyQueueProj\MyQueueProj.csproj" />
+    <ProjectReference Include="..\MyStackArray.cs\MyStackArrayProj.csproj" />
     <ProjectReference Include="..\MyStackProj\MyStackProj.csproj" />
   </ItemGroup>
 

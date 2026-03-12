@@ -26,7 +26,10 @@ public class MyQueue<T>
 
         return _list.GetFirst();
     }
-
+    public void Clear()
+    {
+        _list.Clear(); 
+    }
 
     public int Count => _list.Count;
 }
