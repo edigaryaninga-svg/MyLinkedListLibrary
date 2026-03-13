@@ -2,7 +2,7 @@
 
 class Program
 {
-    static void Main()
+    public void Main()
     {
         MyStack<int> stack = new MyStack<int>();
 
@@ -12,7 +12,7 @@ class Program
 
         Console.WriteLine( stack.Peek());
         Console.WriteLine(stack.Pop());
-        Console.WriteLine( + stack.Peek());
+        Console.WriteLine(stack.Peek());
 
         Console.WriteLine();
         Console.ReadKey();
