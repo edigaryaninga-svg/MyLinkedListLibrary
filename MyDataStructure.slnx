@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="HashTableProj/HashTableProj.csproj" Id="2318db59-3d3f-4dc4-aa37-f308ab977cea" />
   <Project Path="MyBinaryTreeProj/MyBinaryTreeProj.csproj" Id="ccf80a13-6aa0-452b-a97a-ee8faab1bf72" />
   <Project Path="MyCalculatorProj/MyCalculatorProj.csproj" Id="3b00dc19-0578-47ed-9b18-b85f2c82ddda" />
   <Project Path="MyLinkedListLibrary/MyLinkedListLibrary.csproj" />

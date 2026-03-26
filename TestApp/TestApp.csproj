@@ -8,6 +8,7 @@
 	</PropertyGroup>
 
 	<ItemGroup>
+		<ProjectReference Include="..\HashTableProj\HashTableProj.csproj" />
 		<ProjectReference Include="..\MyBinaryTreeProj\MyBinaryTreeProj.csproj" />
 		<ProjectReference Include="..\MyCalculatorProj\MyCalculatorProj.csproj" />
 		<ProjectReference Include="..\MyLinkedListLibrary\MyLinkedListLibrary.csproj" />
