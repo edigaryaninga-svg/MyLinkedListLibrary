@@ -1,4 +1,5 @@
-﻿namespace MyQueueProj;
+﻿using MyLinkedListLibrary;
+namespace MyQueueProj;
 
 public class MyQueue<T>
 {

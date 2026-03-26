@@ -1,4 +1,5 @@
-﻿namespace MyStackProj;
+﻿using MyLinkedListLibrary;
+namespace MyStackProj;
 
 public class MyStack<T>
 {
